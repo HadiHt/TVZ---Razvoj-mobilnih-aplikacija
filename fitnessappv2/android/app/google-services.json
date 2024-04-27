@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974138539067",
+    "project_id": "fitnessapptvzv2",
+    "storage_bucket": "fitnessapptvzv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974138539067:android:00ed352f68d7062ac8f01e",
+        "android_client_info": {
+          "package_name": "com.example.fitnessappv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGeLCFQsQvli0hQGKJSv2ri861kchLv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974138539067:android:85e019eec10f2ed3c8f01e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGeLCFQsQvli0hQGKJSv2ri861kchLv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
